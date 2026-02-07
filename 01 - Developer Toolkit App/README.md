@@ -69,7 +69,7 @@ If you finish early, you may:
 * Open saved links in the device browser
 * Improve UI layout
 
-## 🧠 **Reflection**
+## 🧠 Reflection
 Be prepared to explain:
 * What part of this app was the most challenging
 * Why categorising information is important in real applications
