@@ -7,6 +7,8 @@ The Sandbox app is a practice project that helps you build up the exact Android 
 - MicroTrips
 - Digital Detox
 
+Repo link: https://github.com/PROG7313-2026-EMDBN/Sandbox
+
 Instead of jumping straight into a full app, you will work through the Sandbox project commit by commit, learning one important concept at a time. Each commit introduces a practical feature that appears again in real-world mobile apps.
 
 This approach allows you to:
